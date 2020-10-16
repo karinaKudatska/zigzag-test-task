@@ -1,0 +1,16 @@
+.alert {
+  position: absolute;
+  bottom: 0;
+  right: 50px;
+
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+
+  background-color: #83F6B1;
+  font-weight: bold;
+  color: #282A3B;
+  border: 5px solid #282A3B;
+
+  z-index: 1;
+}

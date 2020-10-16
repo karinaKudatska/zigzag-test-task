@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  background-color: #1E2535;
+}
+
+.App {
+  height: 100vh;
+  max-width: 1920px;
+  margin: auto;
+  padding: 20px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
